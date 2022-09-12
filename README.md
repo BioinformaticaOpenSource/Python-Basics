@@ -8,4 +8,4 @@ Estaremos usando diferentes libros y artículos científicos que serán citados 
 
 https://drive.google.com/drive/folders/1QU6rW-VvtxKxyoWfw2Bx9D58Cp251DnA?usp=sharing
 
-
+El objetivo principal de este repositorio es que sirva de repaso y consulta sobre temas sencillos de programación para estudiantes con poco o nulo conocimiento de programación.
